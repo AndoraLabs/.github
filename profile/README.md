@@ -8,5 +8,5 @@ We are a small company that writes software for the field of AI.
 <h6>•OpenKeys:</h6> An open-source, free alternative to Cursor.
 
 <h3>Ancillary Organizations:</h3>
-•Articipate: https://github.com/articipate
-•Life Hand Software: https://github.com/LifeHandSoftware
+<h6>•Articipate: https://github.com/articipate</h6>
+<h6>•Life Hand Software: https://github.com/LifeHandSoftware</h6>
