@@ -4,8 +4,7 @@
 We are a small company that writes software for the field of AI.
 
 <h3>Projects we are working on:</h3>
-<h6>•Artificial Developer:</h6> Transform your terminal coding agent into a fully autonomous AI developer. Open-source and free.
-<h6>•OpenKeys:</h6> An open-source, free alternative to Cursor.
+<h6>•OpenDoor:</h6> A meeting application where you can organize your CLI agents, enable them to communicate with one another, and have them put their heads together to collaborate on tasks.
 
 <h3>Ancillary Organizations:</h3>
 <h6>•Articipate: https://github.com/articipate</h6>
